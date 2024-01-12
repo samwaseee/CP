@@ -85,9 +85,7 @@ intinsideCircle(point_i p,point_i c,int r){
 
 void solve()
 {
-    int n;
-    cin>>n;
-    cout<<n;
+    
 }
 
 
